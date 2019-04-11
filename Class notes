@@ -1,0 +1,94 @@
+$("button").click(function(){
+  $("p").prepend("<b>text</b>");
+});
+
+bu kodla butona basılınca p içerisine text yazar. bir daha basarsan 2 tane text olur.
+*** Fakat p içinde eğer bir yazı varsa mesela "can" ve butona basılırsa "text can" yazar. bir ÖNCEKİNE ekler.
+
+$("button").click(function(){
+  $("p").append("<b>text</b>");
+});
+
+bu kodla butona basılınca p içerisine text yazar. bir daha basarsan 2 tane text olur.
+*** Fakat p içinde eğer bir yazı varsa mesela "can" ve butona basılırsa "text can" yazar. bir SONRASINA ekler.
+
+==== ÖDEV İÇİN (TRİVİA)
+Css de display:none,display:block diye komutlar var. html de temel kutucukları yaz. sonra içlerini boş bırak. .attr komutuyla style larını değiştir
+display lerini değiştir. .hide() ve .show() da var.
+
+ ayrıca içlerine veri yaz. .html, .append, .prepend, .addclass, .text. Ayrıca yazının içini temizlemek istersen .empty() var.
+
+$("body").append("<p class="cc"> + sss + "</p>")
+$(".class").append("<img src="+ resim adresi +">")
+.text(fighter.healthPoints + ' hp')
+
+
+
+
+
+      var tRow = $("<tr>");
+      var titleTd=$("<td>").text(response.Title);
+      var yearTd=$("<td>").text(response.Year);
+      var actorTd=$("<td>").text(response.Actors);
+      tRow.append(titleTd , yearTd , actorTd);
+      $("tbody").append(tRow);
+Burada yeni yeni var lar yaratmış. sonra yeni yeni itemler atamış. bunları birleştirmiş. sırasıyla. sonra bunları alıp html içindeki yapıya yapıştırmış.
+
+bunun yerine html yazıp da ekleyebiliriz. 
+
+
+
+
+
+
+1. Which is the first paint coat to apply?
+A. Undercoat
+B. Primer 11111
+C. Gloss
+
+2. What is the American name for a plain wallpaper used to smooth out walls?
+A. Lining paper
+B. Blankstock 1111111111
+C. Backing paper
+
+3.Which two colors mixed together make orange?
+A. Red and Brown
+B. Yellow and Red 11111111111
+C. Brown and Yellow
+
+4. What is the standard length of a roll of British wallpaper?
+A. 33 feet 111111111
+B. 35 feet
+C.28 feet
+
+ 5. What is a rad roller used for?
+A. Painting the wall behind radiators 111111111
+B. Painting the backs of radiators
+C. Painting the front of radiators
+
+ 6.Who invented the Shabby Chic style?
+A. Laura Ashley
+B. Rachel Ashwel  111111111l1
+C. Gail McCauley
+
+ 7. To what do strings, treads and risers belong?
+A. Scaffolding
+B.Staircase 111111111111111
+C. Baseboards
+
+
+8. In interior decorating which color is considered cold?
+A. Green
+B. Blue 11111111111
+C. White
+
+
+ 9. Who hosts the TV program 'Grand Designs'?
+A. David Oliver
+B. Kelly S. King
+C. Kevin McCloud 11111111111
+
+ 10. What does 'faux' mean?
+A.Real
+B. Imitation  1111111
+C. Smooth
