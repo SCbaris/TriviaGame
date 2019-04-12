@@ -1,11 +1,11 @@
 body{
-    background-image: url("../images/background.jpg");
+    background-image: url("../Images/background.jpg");
     background-size:     cover;                    
     background-repeat:   no-repeat;   
     text-align: center;        
 }
 .general{
-    background-image: url("../images/general-background.jpg");
+    background-image: url("../Images/general-background.jpg");
     border-radius: 100px;
     border: 2px solid crimson;
     background-size:cover;                    
