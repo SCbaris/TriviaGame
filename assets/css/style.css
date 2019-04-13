@@ -1,3 +1,4 @@
+
 body{
     background-image: url("../Images/background.jpg");
     background-size:     cover;                    
@@ -5,27 +6,28 @@ body{
     text-align: center;        
 }
 .general{
-    background-image: url("../Images/general-background.jpg");
     border-radius: 100px;
     border: 2px solid crimson;
     background-size:cover;                    
     background-repeat:no-repeat;   
     text-align: center;
-    font-family: 'Pacifico', cursive;
-    margin-top: 15%;
+    font-family: 'Anton', sans-serif;
+    margin-top: 20%;
     margin-bottom: 15%;
     font-size: 30px;
+    background: rgba(57, 22, 155, 0.5);
+    color:goldenrod;
 }
 #start{
     
-    background-color: #f84f86; 
+    background-color: crimson; 
     border-radius: 100px;
-    border: 2px solid #f84f86;
+    border: 2px solid goldenrod;
     border: none;
     color: black;
     padding: 15px 32px;
     text-decoration: none;
     font-size: 25px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Anton', sans-serif;
 }
 
