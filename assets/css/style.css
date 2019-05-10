@@ -1,10 +1,15 @@
 
 body{
     background-image: url("../Images/background.jpg");
-    background-size:     cover;                    
-    background-repeat:   no-repeat;   
-    text-align: center;        
-}
+    width: 100%;
+    height: calc(100vh - 56px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 .general{
     border-radius: 100px;
     border: 2px solid crimson;
@@ -19,7 +24,6 @@ body{
     color:goldenrod;
 }
 #start{
-    
     background-color: crimson; 
     border-radius: 100px;
     border: 2px solid goldenrod;

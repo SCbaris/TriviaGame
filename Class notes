@@ -39,23 +39,27 @@ bunun yerine html yazıp da ekleyebiliriz.
 
 
 
-scorpio true= https://media1.giphy.com/media/ZFX8V9vYmE5UmgvjKB/200.gif?cid=e1bb72ff5cb23ef5547666496751c1c5
-scorpio false= https://media3.giphy.com/media/U236koaqtIXjPGz8CF/200.gif?cid=e1bb72ff5cb23ef5547666496751c1c5
-nick fury false=https://media1.giphy.com/media/uSyPZO1H0wIuI/200.gif?cid=e1bb72ff5cb23e546e576a48363f74bb
-nick fury true = https://media3.giphy.com/media/PnwcgZJZ8jdbq/200.gif?cid=e1bb72ff5cb2376c3454796855e9f3fc
-quinjet true = https://media0.giphy.com/media/EE2ZisnP6Aq40/200.gif?cid=e1bb72ff5cb237bc676b4155734853ac
-quinjet false = https://media2.giphy.com/media/2BYvAMWOX8ZGM/200.gif?cid=e1bb72ff5cb237bc676b4155734853ac
-deadpool true = https://media1.giphy.com/media/kwCLw42hH2cxvIywIi/200.gif?cid=e1bb72ff5cb1e985697161732eb6c059
-deadpool false = https://media3.giphy.com/media/57ZvMMkuBIVMlU88Yh/200.gif?cid=e1bb72ff5cb1e985697161732eb6c059
-spiderman true = https://media2.giphy.com/media/3ohze42ixLPV6NKC3e/200.gif?cid=e1bb72ff5cb23980782f6c4932450dea
-spiderman false = https://media2.giphy.com/media/l0HUfAlpWBCSpr4Fa/200.gif?cid=e1bb72ff5cb23980782f6c4932450dea
-captain america true= https://media3.giphy.com/media/XV74ZvGRXcZdS/200.gif?cid=e1bb72ff5cb23ad07432675a326cee0a
-captain america fale= https://media2.giphy.com/media/ucDynIqrf7ADC/200.gif?cid=e1bb72ff5cb23ad07432675a326cee0a
-vision false= https://media0.giphy.com/media/F1pYkxTPkP1D2/200.gif?cid=e1bb72ff5cb23b5a6a4c33696f298488
-vision true= https://media3.giphy.com/media/uzRld9XdlmSJ2/200.gif?cid=e1bb72ff5cb23b5a6a4c33696f298488
-black widow true= https://media0.giphy.com/media/C1O49USbBwn0Q/200.gif?cid=e1bb72ff5cb23d0a4a713963417e916c
-black widow false = https://media1.giphy.com/media/O8dH4G9j0s7Zu/200.gif?cid=e1bb72ff5cb23d0a4a713963417e916c
-bucky true = https://media3.giphy.com/media/xsykCb4prDyDK/200.gif?cid=e1bb72ff5cb23d806242742e495b673d
-buck false = https://media0.giphy.com/media/7SOAPJYTVLh4c/200.gif?cid=e1bb72ff5cb23d806242742e495b673d
-weasel true = https://media1.giphy.com/media/nFE2Jxg5YtmNi/200.gif?cid=e1bb72ff5cb23dda7944695459acbdea
-weasel false = https://media0.giphy.com/media/t0E0WLh73a94A/200.gif?cid=e1bb72ff5cb23dda7944695459acbdea
+scorpio true= "https://media1.giphy.com/media/ZFX8V9vYmE5UmgvjKB/200.gif?cid=e1bb72ff5cb23ef5547666496751c1c5","https://media3.giphy.com/media/U236koaqtIXjPGz8CF/200.gif?cid=e1bb72ff5cb23ef5547666496751c1c5"
+scorpio false= 
+nick fury false= "https://media1.giphy.com/media/uSyPZO1H0wIuI/200.gif?cid=e1bb72ff5cb23e546e576a48363f74bb","https://media3.giphy.com/media/PnwcgZJZ8jdbq/200.gif?cid=e1bb72ff5cb2376c3454796855e9f3fc"
+nick fury true = 
+quinjet true = "https://media0.giphy.com/media/EE2ZisnP6Aq40/200.gif?cid=e1bb72ff5cb237bc676b4155734853ac","https://media2.giphy.com/media/2BYvAMWOX8ZGM/200.gif?cid=e1bb72ff5cb237bc676b4155734853ac"
+quinjet false = 
+deadpool true = "https://media1.giphy.com/media/kwCLw42hH2cxvIywIi/200.gif?cid=e1bb72ff5cb1e985697161732eb6c059","https://media3.giphy.com/media/57ZvMMkuBIVMlU88Yh/200.gif?cid=e1bb72ff5cb1e985697161732eb6c059"
+deadpool false = 
+spiderman true = "https://media2.giphy.com/media/3ohze42ixLPV6NKC3e/200.gif?cid=e1bb72ff5cb23980782f6c4932450dea","https://media2.giphy.com/media/l0HUfAlpWBCSpr4Fa/200.gif?cid=e1bb72ff5cb23980782f6c4932450dea"
+spiderman false = 
+captain america true= "https://media3.giphy.com/media/XV74ZvGRXcZdS/200.gif?cid=e1bb72ff5cb23ad07432675a326cee0a","https://media2.giphy.com/media/ucDynIqrf7ADC/200.gif?cid=e1bb72ff5cb23ad07432675a326cee0a"
+captain america fale= 
+vision true=  "https://media0.giphy.com/media/F1pYkxTPkP1D2/200.gif?cid=e1bb72ff5cb23b5a6a4c33696f298488","https://media3.giphy.com/media/uzRld9XdlmSJ2/200.gif?cid=e1bb72ff5cb23b5a6a4c33696f298488"
+vision false= 
+black widow true= "https://media0.giphy.com/media/C1O49USbBwn0Q/200.gif?cid=e1bb72ff5cb23d0a4a713963417e916c","https://media1.giphy.com/media/O8dH4G9j0s7Zu/200.gif?cid=e1bb72ff5cb23d0a4a713963417e916c"
+black widow false = 
+bucky true = "https://media3.giphy.com/media/xsykCb4prDyDK/200.gif?cid=e1bb72ff5cb23d806242742e495b673d","https://media0.giphy.com/media/7SOAPJYTVLh4c/200.gif?cid=e1bb72ff5cb23d806242742e495b673d"
+buck false =
+weasel true = "https://media1.giphy.com/media/nFE2Jxg5YtmNi/200.gif?cid=e1bb72ff5cb23dda7944695459acbdea","https://media0.giphy.com/media/t0E0WLh73a94A/200.gif?cid=e1bb72ff5cb23dda7944695459acbdea"
+weasel false =
+thor true = "https://media3.giphy.com/media/4bZkKe9lqbtvy/200.gif?cid=e1bb72ff5cb20de9313258766f8b603e" ,"https://media1.giphy.com/media/mjo0YVD9zgqfC/200.gif?cid=e1bb72ff5cb20de9313258766f8b603e"
+thor false = 
+
+end = https://media0.giphy.com/media/N97kHQgG33rUI/200.gif?cid=e1bb72ff5cb243e34151576d32d2310c
