@@ -22,3 +22,6 @@
 ----------------
 
 Code Prepared by SCB. Written on Jquery, Bootstrap, Css, Html, Ajax.
+Used radio button instead of simple block buttons. 
+Because try to learn how to use radio buttons challange myself. 
+Simple block buttons looks more better and easy to use. 
